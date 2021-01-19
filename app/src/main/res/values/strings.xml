@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Search User</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search Here</string>
+    <string name="setting">Setting</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="language">Language</string>
+</resources>
